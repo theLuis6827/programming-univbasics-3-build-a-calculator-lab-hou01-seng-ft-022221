@@ -1,13 +1,16 @@
 def addition(num1, num2)
-   return num1 + num2
+   total = num1 + num2
+   return total
 end
 
 def subtraction(num1, num2)
-  return num2 - num1
+  subtract = num2 - num1
+  return subtract
 end
 
 def division(num1, num2)
-  return num2 / num1
+  divide = num2 / num1
+  return divide
 end
 
 def multiplication(num1, num2)
